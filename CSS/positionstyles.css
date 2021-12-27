@@ -1,0 +1,33 @@
+.top
+{
+  height:100px;
+  width:100px;
+  background-color:red;
+  position:absolute;
+  top:200px;
+  left:200px;
+}
+
+.middle{
+  height:100px;
+  width:100px;
+  background-color:yellow;
+  position:absolute;
+  top:0;
+  left:0;
+
+}
+
+.bottom{
+
+  height:100px;
+  width:100px;
+  background-color:blue;
+  position:absolute;
+  top:100px;
+  left:100px;
+}
+
+.bottom-cloud {
+  position:absolute;
+}
